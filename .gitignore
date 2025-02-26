@@ -1,0 +1,7 @@
+.venv
+musicTranscriverService
+poetry.lock
+pyproject.toml
+lyrics
+songs
+debug
